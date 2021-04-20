@@ -1,5 +1,5 @@
 # Data-Structures-Algorithms-for-Problem-Solving
-
+Assignments of Data-Structures-Algorithms-for-Problem-Solving taken under Prof. Vineet gandhi in Monsoon 2020 @ IIIT-H 
 ## DSA-Assignment 1
 * Q1 - Expression evaluation using generic stack(implemented from scratch)
 * Q2 - Fast exponentiation, GCD of 2 integers and factorial using self implemented BigInt library
