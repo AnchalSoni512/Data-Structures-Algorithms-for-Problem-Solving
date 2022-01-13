@@ -14,3 +14,5 @@ Assignments of Data-Structures-Algorithms-for-Problem-Solving taken under Prof. 
 * Q1 - Implementation of suffix array
 * Q2 - Trie Implementation
 * Q3 - External Sorting
+
+nb: Do note that some of the solutions can be incorrect.
